@@ -1,21 +1,18 @@
-
-
 .calculator {
     max-width: 400px;
-    min-width: 300px;
-    
+    min-width: 300px;    
     margin: 0 auto;
     margin-top: 10px;    
     padding: 10px;
     background-color: black;
-
 }
 
-.cal-button {
-    height: 50px;
-    width: 50px;
-
-}
 .calculator input[type="text"] {
     text-align: right;
 }
+
+.cal-button {
+    height: 100%;
+    width: 100%;
+}
+
